@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA8FC6BE268CE7490066AFBE /* ApiKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8FC6BD268CE7490066AFBE /* ApiKey.swift */; };
 		AA95E127267901E400C6420C /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA95E126267901E400C6420C /* WeatherData.swift */; };
 		AABA1DE9267ACC100073E751 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABA1DE8267ACC100073E751 /* WeatherModel.swift */; };
 		AAD07D562677D7A700402698 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD07D552677D7A700402698 /* WeatherManager.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AA8FC6BD268CE7490066AFBE /* ApiKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiKey.swift; sourceTree = "<group>"; };
 		AA95E126267901E400C6420C /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		AABA1DE8267ACC100073E751 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
 		AAD07D552677D7A700402698 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				AAD07D552677D7A700402698 /* WeatherManager.swift */,
 				AA95E126267901E400C6420C /* WeatherData.swift */,
 				AABA1DE8267ACC100073E751 /* WeatherModel.swift */,
+				AA8FC6BD268CE7490066AFBE /* ApiKey.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				AA95E127267901E400C6420C /* WeatherData.swift in Sources */,
 				ADAA27B1231BBFAF00365194 /* AppDelegate.swift in Sources */,
 				AAD07D562677D7A700402698 /* WeatherManager.swift in Sources */,
+				AA8FC6BE268CE7490066AFBE /* ApiKey.swift in Sources */,
 				AABA1DE9267ACC100073E751 /* WeatherModel.swift in Sources */,
 				ADAA27B3231BBFAF00365194 /* SceneDelegate.swift in Sources */,
 			);
